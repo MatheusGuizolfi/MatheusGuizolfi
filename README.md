@@ -1,7 +1,10 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on BRQ Digital Solutions.
-- 🌱 I’m currently learning Python and System Design.
+I am a professional with more than 6 years of experience in the infrastructure area, specialized as a DevOps Engineer and SRE (Site Reliability Engineer). During my career, I've had the opportunity to work on challenging projects and collaborate with talented teams, always looking to optimize and improve systems development, deployment and maintenance processes.
+
+I am currently working as a DevOps Engineer at BRQ Digital solutions and my tech stack includes linux, programming in bash and python, docker, kubernetes, AWS, terraform, ansible, ELK, prometheus, grafana and others.
+
+- 🌱 I’m currently learning Python and Systems Design.
 - 💬 Ask me about Cloud, Docker, Kubernetes, Terraform, Container, AWS...
 
 [![Static Badge](https://img.shields.io/badge/Github-black?style=flat-square&logo=github&logoColor=white&link=https%3A%2F%2Fgithub.com%2FMatheusGuizolfi)](https://github.com/MatheusGuizolfi)
